@@ -1,4 +1,8 @@
-const swaply = require('@swaply/core');
+const { Account, Keypair } = require('@swaply/core-node');
 
-const acc = swaply.Account.new();
-console.log(acc);
+const keypair = Keypair.generate();
+console.log(keypair.json_pretty());
+
+const acc = Account.from_keypair(keypair);
+console.log("\nRespective account: ");
+console.log(acc.json_pretty());
