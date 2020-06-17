@@ -23,15 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@swaply/core-node@^0.3.5":
-  version "0.3.5"
-  resolved "https://registry.yarnpkg.com/@swaply/core-node/-/core-node-0.3.5.tgz#bc0c7696303ad37fb6a62329db02e244708ee8f3"
-  integrity sha512-7fodlOLEh8gl+zhDftFKNXiwBw/C5SqKo3hxuhQkRt98yMkj38gMZqY4dGH3Qpneio0E5zqgm1P8yZu5tIcODg==
-
-"@swaply/core@^0.3.5":
-  version "0.3.5"
-  resolved "https://registry.yarnpkg.com/@swaply/core/-/core-0.3.5.tgz#8824d2174ce2d8aae895581a71d11e9cf5ccba75"
-  integrity sha512-rTeP96Doxs59q8u6sGR6q4t6iB+YVUetoXnSPb6ZrIMmYBjDa0tF3k3rz/DWzFB6KRbfSZ0SccetxDzikR8xVg==
+"@swaply/core-node@^0.3.7":
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/@swaply/core-node/-/core-node-0.3.7.tgz#485f569c9569b6fefce6a291bdb351b30aa93b00"
+  integrity sha512-7yYoXuJKmFmhuw46PwZMApea3+MW48+SeGCKNqyjwiO5H1prQREb5JZbUMOm+x+PWuqK6ro75lDU1IP0XMjHqw==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
