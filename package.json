@@ -10,7 +10,8 @@
   "devDependencies": {
     "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.21.2"
+    "eslint-plugin-import": "^2.21.2",
+    "jest": "^26.1.0"
   },
   "dependencies": {
     "@swaply/core-node": "^0.3.7"
