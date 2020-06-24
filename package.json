@@ -7,6 +7,9 @@
   "author": "Dowland Aiello <dowlandaiello@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^14.2.0",
@@ -14,6 +17,6 @@
     "jest": "^26.1.0"
   },
   "dependencies": {
-    "@swaply/core-node": "^0.3.7"
+    "@swaply/core-node": "^0.3.11"
   }
 }

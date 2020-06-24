@@ -489,10 +489,15 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@swaply/core-node@^0.3.7":
-  version "0.3.7"
-  resolved "https://registry.yarnpkg.com/@swaply/core-node/-/core-node-0.3.7.tgz#485f569c9569b6fefce6a291bdb351b30aa93b00"
-  integrity sha512-7yYoXuJKmFmhuw46PwZMApea3+MW48+SeGCKNqyjwiO5H1prQREb5JZbUMOm+x+PWuqK6ro75lDU1IP0XMjHqw==
+"@swaply/core-node@^0.3.11":
+  version "0.3.11"
+  resolved "https://registry.yarnpkg.com/@swaply/core-node/-/core-node-0.3.11.tgz#73b279fb1adbaaf362d202402c19059d06bcb09c"
+  integrity sha512-Vg2WV3LSoV74uLTpqzVwHI2RnYr+5AP7mt3RB6fq4ZrZ875evx5M/8kKAHlp1bW6tIvmmXN9Zv2uwx8i8UjsPg==
+
+"@swaply/core@^0.3.11":
+  version "0.3.11"
+  resolved "https://registry.yarnpkg.com/@swaply/core/-/core-0.3.11.tgz#1c4427f15af841632aa51251124528b2fadf230c"
+  integrity sha512-EkfFZ2r5sIzKPcy2ov2LOOgIsQIWFrEICCKermYSKkwX2FcPj5R0p36rJ2rzf9wskNmcEehe6POGUELdyDlx4g==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.9"
